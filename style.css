@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(58, 58, 213);
+    background-color: rgb(145, 145, 201);
 }
 /*Styling of hearder*/
 .navbar{
@@ -171,9 +171,7 @@ footer{
         margin-top: 1.7em;
         margin-left: 10em;
     }
-    .navigation{
-        /*visibility: hidden;*/
-    }span.f{
+    span.f{
         color: tomato;
         margin-left: 1em;
         font-family: Arial, Helvetica, sans-serif;
